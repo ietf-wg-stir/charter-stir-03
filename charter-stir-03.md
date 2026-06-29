@@ -11,7 +11,7 @@ Operational experience has revealed that while STIR effectively authenticates th
 
 The STIR Working Group will continue to specify and maintain the baseline protocols for cryptographic authentication of telephone calling party information using PASSporT and related mechanisms.
 
-The Working Group will define a means to associate a PASSporT with an identifier representing the entity holding the right to use an assigned telephone number. This is expected to take the form of a new PASSporT claim whose value carries the entity identifier; the form of that value (for example, a URI, string, or structured object) and how it is bound to STIR credentials and the delegation model are matters for the Working Group to determine.
+The Working Group will define a means to associate a PASSporT with an identifier representing the entity holding the right to use an assigned telephone number. 
 
 The Working Group will define certificate transparency mechanisms for telephone identity credentials that improve auditability and support detection of mis-issuance within the STIR ecosystem.
 
