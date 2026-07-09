@@ -25,4 +25,5 @@ The following items are out of scope for the STIR Working Group:
 
 - Definition of jurisdictional or legal policy topics, including vetting policies, regulatory requirements, governance, or authorization frameworks.
 - Definition of governance requirements for numbering authorities, certificate authorities, or transparency services.
+- Alternative trust models or new trust anchors for the base signing layer, including non-certificate identifier mechanisms. This recharter builds on the existing STIR certificate-based trust model; such work would require separate consideration and is not in scope here.
 - Any mechanism requiring changes to circuit-switched telephony technologies.
