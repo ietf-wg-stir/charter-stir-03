@@ -17,7 +17,7 @@ The Working Group will define certificate transparency mechanisms for telephone 
 
 The Working Group will extend existing out-of-band mechanisms to support discovery of STIR credentials and services associated with telephone numbers, including the application of connected identity in scenarios where SIP signaling is not end-to-end. The Working Group will consider extensions that support the use of authenticated telephone identity in other communications contexts, including messaging.
 
-The Working Group will continue to leverage existing Internet security mechanisms, including PKI, and will coordinate with other IETF working groups as appropriate.
+The Working Group will continue to leverage existing Internet security mechanisms, including PKI, and will coordinate with other IETF working groups as appropriate. It will also continue to coordinate with external standards bodies such as ATIS and the SIP Forum on the implementation and deployment of STIR mechanisms (e.g., SHAKEN).
 
 ## Out of Scope
 
