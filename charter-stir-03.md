@@ -11,11 +11,11 @@ Operational experience has revealed that while STIR effectively authenticates th
 
 The STIR Working Group will continue to specify and maintain the baseline protocols for cryptographic authentication of telephone calling party information using PASSporT and related mechanisms.
 
-The Working Group will define a means to associate a PASSporT with an identifier representing the entity holding the right to use an assigned telephone number. 
+The Working Group will define standards-track documents to provide a means to associate a PASSporT with an identifier representing the entity holding the right to use an assigned telephone number.
 
-The Working Group will define certificate transparency mechanisms for telephone identity credentials that improve auditability and support detection of mis-issuance within the STIR ecosystem.
+The Working Group will define informational or experimental documents to provide certificate transparency mechanisms for telephone identity credentials that improve auditability and support detection of misissuance within the STIR ecosystem.
 
-The Working Group will extend existing out-of-band mechanisms to support discovery of STIR credentials and services associated with telephone numbers, including the application of connected identity in scenarios where SIP signaling is not end-to-end. The Working Group will consider extensions that support the use of authenticated telephone identity in other communications contexts, including messaging.
+The Working Group will define informational or experimental documents to extend existing out-of-band mechanisms for the discovery of STIR credentials and services associated with telephone numbers, including the application of connected identity in scenarios where SIP signaling is not end-to-end. The Working Group will consider extensions that support the use of authenticated telephone identity in other communications contexts, including messaging.
 
 The Working Group will continue to leverage existing Internet security mechanisms, including PKI, and will coordinate with other IETF working groups as appropriate.
 
